@@ -1,7 +1,7 @@
 # Flash Cards Application using 
 
 ### Endpoint
-> http://0.0.0.0:5000/api/doc
+> http://0.0.0.0:5001/api/doc
 
 ## Architecture Diagram
 
@@ -22,16 +22,17 @@
 ## Run the Application
 
 > pip install -r requirements.txt
+> 
 > python app.py
 
-This will start the application on port 5000
+This will start the application on port 5001
 
 ## Test the application
 
 Swagger-UI can be used to test the application.
 ![alt text](sample-flask-application.png)
 
-The server will start at <http://localhost:5000>.
+The server will start at <http://localhost:5001>.
 
 ## References
 
