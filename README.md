@@ -1,4 +1,4 @@
-# Flash Cards Application using Flask
+# Flash Cards Application using Flask RESTPlus
 
 ### Endpoint
 > http://0.0.0.0:5001/api/doc
