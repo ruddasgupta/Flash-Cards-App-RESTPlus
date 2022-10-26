@@ -1,4 +1,4 @@
-# Flash Cards Application using 
+# Flash Cards Application using  Flask
 
 ### Endpoint
 > http://0.0.0.0:5001/api/doc
